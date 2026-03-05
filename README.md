@@ -55,15 +55,13 @@ I'm a back-end developer focused on building robust, scalable, and maintainable 
 > Some of what I've been working on:
 
 - 🌐 **Web Systems & Landing Pages** — Front-facing web projects with back-end integrations
-- 🔗 More projects available on my [GitHub profile](https://github.com/seu-usuario)
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=6&theme=github_dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LorenzoMaiola&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
