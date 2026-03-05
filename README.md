@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lorenzo Maiola 👋</h1>
 
 <p align="center">
-  <b>Back-end Developer · Java · Kotlin · C# · .NET</b>
+  <b>Back-end Developer · Java · C# · .NET</b>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## About Me
 
-I'm a back-end developer focused on building robust, scalable, and maintainable server-side solutions. I have solid experience with **Java**, **Kotlin**, and the **C# / .NET** ecosystem, and I'm always looking to deepen my technical knowledge and adopt best practices in software development.
+I'm a back-end developer focused on building robust, scalable, and maintainable server-side solutions. I have solid experience with **Java**, and the **C# / .NET** ecosystem, and I'm always looking to deepen my technical knowledge and adopt best practices in software development.
 
 - 🔭 Currently deepening my expertise in **C# and the .NET platform**
 - 🏗️ Experience building **web systems and landing pages**
@@ -31,15 +31,16 @@ I'm a back-end developer focused on building robust, scalable, and maintainable 
 **Languages & Frameworks**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 
 **Tools & Others**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
 
 ---
 
@@ -54,15 +55,7 @@ I'm a back-end developer focused on building robust, scalable, and maintainable 
 
 > Some of what I've been working on:
 
-- 🌐 **Web Systems & Landing Pages** — Front-facing web projects with back-end integrations
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LorenzoMaiola&theme=github-dark-blue&hide_border=true"/>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-ERP-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LorenzoMaiola/ERP)
 
 ---
 
