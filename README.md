@@ -1,14 +1,13 @@
 <h1 align="center">Hi, I'm Lorenzo Maiola 👋</h1>
-
 <p align="center">
   <b>Back-end Developer · Java · C# · .NET</b>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/seu-usuario" target="_blank">
+  <a href="https://www.linkedin.com/in/lorenzo-maiola-700895397/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/seu-usuario" target="_blank">
+  <a href="https://github.com/LorenzoMaiola" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -40,7 +39,7 @@ I'm a back-end developer focused on building robust, scalable, and maintainable 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ---
 
