@@ -36,15 +36,13 @@ I'm a back-end developer focused on building robust, scalable, and maintainable 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ---
 
 ## Currently Studying
 
-- ⚙️ Advanced **C# / .NET** — ASP.NET Core, Entity Framework, REST APIs
-- 🧱 Software architecture principles: Clean Architecture, SOLID, DDD
-
+- ⚙️ **C# / .NET** — ASP.NET Core
+- 🎓 **Computer Science**
 ---
 
 ## Projects
